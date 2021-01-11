@@ -14,7 +14,7 @@
 
 ## Поддерживаемые платформы для приложения:
 На данный момент приложение доступно для:  
-1. [Windows](https://github.com/zeinlol/SmartHome/raw/main/SmartHome_Windows_c_01.exe)
+1. [Windows](https://github.com/zeinlol/SmartHome/raw/main/SmartHome.exe)
 2. Raspberry Pi
 
 В ближайшее время появится прошивка для arduino & ESP8266
