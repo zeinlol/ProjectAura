@@ -15,6 +15,21 @@
 ## Поддерживаемые платформы для приложения:
 На данный момент приложение доступно для:  
 1. [Windows](https://github.com/zeinlol/SmartHome/raw/main/SmartHome.exe)
-2. Raspberry Pi
+2. [Raspberry Pi](https://github.com/zeinlol/SmartHome/raw/main/smarthomehub.py)
+
+## Инструкция  
+### Windows  
+1) Скачайте приложение по [ссылке](https://github.com/zeinlol/SmartHome/raw/main/SmartHome.exe)
+2) Введите код, указаный в телеграм боте
+3) По желанию в ручную добавьте в автозагрузку  
+### Raspberry
+1) Скачайте приложение по [ссылке](https://github.com/zeinlol/SmartHome/raw/main/smarthomehub.py)
+2) Убедитесь, что у вас установлен Python 3.7 или выше
+3) Введите комманды  
+> pip install wakeonlan   
+> pip install pysimplegui
+4) Для запуска приложения в консоли введите 
+> python3 ПУТЬ_К_ФАЙЛУ/smarthomehub.py
+5) По желанию в ручную добавьте файл в автозагрузку
 
 В ближайшее время появится прошивка для arduino & ESP8266
