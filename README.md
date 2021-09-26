@@ -18,12 +18,12 @@ Project Aura - децентрализованная система для уда
 
 ## Поддерживаемые платформы для приложения:
 На данный момент приложение доступно для:  
-1. [Windows](https://github.com/zeinlol/SmartHome/raw/main/Aura_0_2.exe)
+1. [Windows](https://github.com/zeinlol/SmartHome/raw/main/Aura_0_2_1.exe)
 2. [Ubuntu Linux](https://github.com/zeinlol/SmartHome) - временно недоступно
 
 ## Инструкция  
 ### Windows  
-1) Скачайте приложение по [ссылке](https://github.com/zeinlol/SmartHome/raw/main/Aura_0_2.exe)
+1) Скачайте приложение по [ссылке](https://github.com/zeinlol/SmartHome/raw/main/Aura_0_2_1.exe)
 2) В телеграм боте нажмите 'Добавить устройство' и в приложении введите указанный ко
 3) По желанию вручную добавьте в автозагрузку  
 ### Ubuntu Linux
